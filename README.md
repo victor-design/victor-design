@@ -1,6 +1,5 @@
-- 👋 Hi, I’m OyolaVictor
+- 👋 Hi, I’m Victor-design
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on posible areas
 - 📫 How to reach me ... victorbilly916@Gmail.com/
 
